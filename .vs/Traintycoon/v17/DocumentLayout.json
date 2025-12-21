@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\can bey\\Traintycoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\karakter-yemek-yapma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\karakter-yemek-yapma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Yemek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Yemek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "karakter-yemek-yapma.cs",
+              "DocumentMoniker": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\karakter-yemek-yapma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\karakter-yemek-yapma.cs",
+              "ToolTip": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\karakter-yemek-yapma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\karakter-yemek-yapma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:36:38.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Karakter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Karakter.cs",
+              "ToolTip": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Karakter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Karakter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:45:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Yemek.cs",
               "DocumentMoniker": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Yemek.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Yemek.cs",
@@ -38,12 +71,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Yemek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:38:18.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T16:38:18.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Para-kasa.cs",
               "DocumentMoniker": "C:\\Users\\can bey\\Traintycoon\\Assets\\Scripts\\Para-kasa.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Para-kasa.cs",
@@ -51,8 +83,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Para-kasa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:25:37.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T16:25:37.894Z"
             }
           ]
         }
